@@ -9,11 +9,10 @@
 ## Installation
 
 1. Download and install NodeJs(https://nodejs.org/en/download/)
-2. Download and install Javascript
-4. Install VS Code
-5. Download/Clone the repo to your system.
-6. Open the repo in VS code and open terminal
-7. run `npm run install-dependency` -- this will install the dependencies and `node_modules` folder will be created
+2. Install VS Code
+3. Download/Clone the repo to your system.
+4. Open the repo in VS code and open terminal
+5. run `npm run install-dependency` -- this will install the dependencies and `node_modules` folder will be created
 
 
 ## Getting started with UI Automation

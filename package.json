@@ -1,0 +1,21 @@
+{
+  "name": "rtcampassessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install-dependency": "npm install",
+    "test-login": "npx playwright test ./tests/login.spec.js",
+    "test-wishlist": "npx playwright test ./tests/wishlist.spec.js",
+    "test-checkout": "npx playwright test ./tests/checkout.spec.js",
+    "test-productSearchPage": "npx playwright test ./tests/productSearchPage.spec.js",
+    "test-all": "npx playwright test ./tests/*.*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.45.2",
+    "@types/node": "^20.14.11"
+  }
+}

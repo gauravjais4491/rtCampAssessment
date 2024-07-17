@@ -1,0 +1,24 @@
+{
+  "productName": "t-shirt",
+  "expectedTextForProductSearch": [
+    "t-shirt",
+    "tshirt",
+    "t shirt",
+    "shirt",
+    "men"
+  ],
+  "delayTime": 200,
+  "productNotAvailable": "laptopkjnsdkchkvbkvbKbckhskbhfshbvia.",
+  "expectedTextForProductNotAvailable": "No results for",
+  "filterNames": [
+    "LEOTUDE",
+    "Amazon Brand - Symbol"
+  ],
+  "productNames":[
+    "tshirt",
+    "laptop",
+    "Kaju Katli",
+    "pencil"
+  ]
+}
+

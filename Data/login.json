@@ -1,0 +1,20 @@
+{
+  "url": "https://www.amazon.in/",
+  "phoneNumber": "9570719775",
+  "email": "your_amazon_test_account_username",
+  "password": "your_amazon_test_account_password",
+  "userName": "Gaurav",
+  "delayTime": 300,
+  "emailNotExist": "nonexituserHacker1234@gmail.com",
+  "invalidEmail": "invalid_user@example.com",
+  "invalidPassword": "123456",
+  "expectedTextsForInValidDetails": [
+    "Create Account",
+    "We cannot find an account with that email address",
+    " Looks like you are new to Amazon",
+    "Incorrect phone number",
+    "Invalid mobile number",
+    "We cannot find an account with that mobile number"
+  ],
+  "expectedTextForValidEmailAndInvalidPassword": "Your password is incorrect"
+}

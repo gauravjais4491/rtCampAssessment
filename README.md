@@ -38,16 +38,15 @@
 ## Running Test Cases
 
 1. Approach to execute only login test cases:
-    -Command to execute the test case locally `npm run test-login`
+    - Command to execute the test case locally `npm run test-login`
 2. Approach to execute only wishlist test cases:
-    -Command to execute the test case locally `npm run test-wishlist`
+    - Command to execute the test case locally `npm run test-wishlist`
 3. Approach to execute only checkout test cases:
-    -Command to execute the test case locally `npm run test-checkout`
+    - Command to execute the test case locally `npm run test-checkout`
 4. Approach to execute only productSearchPage test cases:
-    -Command to execute the test case locally `npm run test-productSearchPage`
+    - Command to execute the test case locally `npm run test-productSearchPage`
 5. Approach to execute all the test cases:
-    -Command to execute all the test case locally `npm run test-all`
-6. If you want to run test case in headed mode add `--headed` in last in given command
+    - Command to execute all the test case locally `npm run test-all`
 
 
 ## Links for the Test Documentation

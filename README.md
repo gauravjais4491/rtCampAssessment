@@ -30,7 +30,7 @@
 ## Configuration
 1. Update login.json with your Amazon test account credentials.
     - To update credentials:
-        1.  Open login.json.
+        1.  Open `login.json from` from  `Data folder` present in root directry.
         2.  Replace `your_amazon_test_account_username` with your actual Amazon test account username.
         3.  Replace `your_amazon_test_account_password` with your actual Amazon test account password.
         4.  User should disable two step authentication
